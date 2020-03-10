@@ -1,5 +1,5 @@
 ## Code
-The quantitative performance of uploaded model would achieve higher performance than reported number at the paper with fixing minor bugs.
+The quantitative performance of uploaded model would be higher than reported performance at the paper with fixing minor bugs.
 
 | Datasets      | Paper           | Uploaded  |
 | ------------- |:-------------:| -----:|
