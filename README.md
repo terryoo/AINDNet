@@ -5,7 +5,7 @@ Yoonsik Kim, Jae Woong Soh, Gu Yong Park, and Nam Ik Cho
 
 [[Arxiv](https://arxiv.org/abs/2002.11244)]
 
-<img src = "/figs/patch_NOISY.png" width="400"> <img src = "/figs/patch_AINDNETTF.png" width="400"> 
+<img src = "/figs/patch_NOISY.png" width="256"> <img src = "/figs/patch_AINDNETTF.png" width="256"> 
 
 ## Environments
 - Ubuntu 18.04
