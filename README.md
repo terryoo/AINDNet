@@ -32,7 +32,9 @@ We can also see that the proposed transfer learning scheme robustly works for re
 ### Adaptive Instance Normalization Denoising Network
 
 <p align="center"><img src = "/figs/figure_overview.png" width="800">
+  
 <br><br>
+
 <img src = "/figs/AIN_Resblock.png" width="320">
 
 We propose a novel well-generalized denoiser based on the AIN, which enables the CNN to work for various noise from many camera devices.	
