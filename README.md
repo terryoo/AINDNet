@@ -32,7 +32,7 @@ We can also see that the proposed transfer learning scheme robustly works for re
 ### Adaptive Instance Normalization Denoising Network
 
 <img src = "/figs/figure_overview.png" width="900">
-
+<br><br>
 <img src = "/figs/AIN_Resblock.png" width="320">
 
 We propose a novel well-generalized denoiser based on the AIN, which enables the CNN to work for various noise from many camera devices.	
@@ -43,8 +43,9 @@ We introduce a transfer learning for the denoising scheme, which learns the doma
 
 ## Experimental Results
 ### Quantitative Results on DND and SIDD benchmarks
+<p align="center"><img src="/figs/dnd_table.png" width="400">&nbsp;&nbsp;<img src="/figs/SIDD_table.png" width="400"></p> 
 
-
+Average PSNR of the denoised images on the DND (left) and SIDD (right) benchmarks, we denote the environment of training, i.e., training with SN data only, RN data only, and both. 
 
 ### Visualized Results
 
