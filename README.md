@@ -31,7 +31,7 @@ We can also see that the proposed transfer learning scheme robustly works for re
 ## Brief Description of Proposed Method
 ### Adaptive Instance Normalization Denoising Network
 
-<img src = "/figs/figure_overview.png" width="900">
+<img src = "/figs/figure_overview.png" width="800">
 <br><br>
 <img src = "/figs/AIN_Resblock.png" width="320">
 
@@ -48,7 +48,7 @@ We introduce a transfer learning for the denoising scheme, which learns the doma
 Average PSNR of the denoised images on the DND (left) and SIDD (right) benchmarks, we denote the environment of training, i.e., training with SN data only, RN data only, and both. 
 
 ### Visualized Results
-<img src = "/figs/visual_comparison.png" width="800">
+<img src = "/figs/visual_comparison.png" width="700">
 
 
 
