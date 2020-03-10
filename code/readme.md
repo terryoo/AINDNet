@@ -10,12 +10,12 @@ The quantitative performance of uploaded model would be higher than reported per
 | SIDD Test | 38.95     | 39.01 |
 
 ### Test
-Ready for the input data
+Ready for the input data.
 python test_images.py --ckpt [trained model] --input_dir [Noisy Image directory] --output_dir [save directory]  --gpu_id [GPU number]
 
 [Options]
-```python test_images.py --ckpt [trained model] --input_dir [Noisy Image directory] --output_dir [save directory]  --gpu_id [GPU number]
-
+```
+python test_images.py --ckpt [trained model] --input_dir [Noisy Image directory] --output_dir [save directory]  --gpu_id [GPU number]
 --ckpt: Path of trained model [Default: ./checkpoint/SIDD_transfer/]
 --input_dir: Directory of input images [Default: ./testset/RNI15/]
 --output_dir: Directory for the output images. [Default: ./result/RNI15/]
@@ -24,5 +24,5 @@ python test_images.py --ckpt [trained model] --input_dir [Noisy Image directory]
 
 ## Test Set
 The real-noise benchmarks can be downloaded at [**DND**](https://noise.visinf.tu-darmstadt.de/)
-and [**SIDD**](https://www.eecs.yorku.ca/~kamel/sidd/benchmark.php)
-RNI15 is attached.
+and [**SIDD**](https://www.eecs.yorku.ca/~kamel/sidd/benchmark.php).
+RNI15 is attached in testsets folder.
