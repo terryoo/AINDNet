@@ -48,12 +48,18 @@ We introduce a transfer learning for the denoising scheme, which learns the doma
 Average PSNR of the denoised images on the DND (left) and SIDD (right) benchmarks, we denote the environment of training, i.e., training with SN data only, RN data only, and both. 
 
 ### Visualized Results
+<img src = "/figs/visual_comparison.png" width="800">
+
 
 
 
   
 
 
+## Citation
+```
+Will be updated soon.
+```
 
 
 
