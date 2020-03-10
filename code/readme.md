@@ -1,7 +1,7 @@
 ## Code
 The quantitative performance of uploaded model would be higher than reported performance at the paper with fixing minor bugs.
 
-| Datasets      | Paper           | Uploaded  |
+| Datasets      | Paper (dB)           | Uploaded (dB)  |
 | ------------- |:-------------:| -----:|
 | DND      | 39.37 | 39.46 |
 | SIDD Validation      | 38.90       | 38.96  |
