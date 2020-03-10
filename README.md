@@ -38,7 +38,7 @@ We can also see that the proposed transfer learning scheme robustly works for re
 We propose a novel well-generalized denoiser based on the AIN, which enables the CNN to work for various noise from many camera devices.	
 
 ### Transfer Learning
-<img src = "/figs/transfer_learning.png" width="320">
+<img src = "/figs/transfer_learning.png" width="480">
 We introduce a transfer learning for the denoising scheme, which learns the domain-invariant information from synthetic noise (SN) data and updates affine transform parameters of AIN for the different-domain data.
 
 ## Experimental Results
