@@ -15,7 +15,7 @@ Yoonsik Kim, Jae Woong Soh, Gu Yong Park, and Nam Ik Cho
 
 ## Test Code
 
-[**Code**](https://github.com/terryoo/AINDNet/xxx)
+[**Code**](https://github.com/terryoo/AINDNet/tree/master/code)
 
 [**Trained Model**](https://drive.google.com/drive/folders/1PAZvXjQLvQb5WAdacqepBrQuWdwezUjf?usp=sharing)
 
