@@ -17,7 +17,7 @@ Yoonsik Kim, Jae Woong Soh, Gu Yong Park, and Nam Ik Cho
 
 [**Code**](https://github.com/terryoo/AINDNet/xxx)
 
-[**Trained Model**](https://drive.google.com/drive/folders/1kpZNJmgzlZPyBbPiP0Py4kwPGNaQCKWo?usp=sharing)
+[**Trained Model**](https://drive.google.com/drive/folders/1PAZvXjQLvQb5WAdacqepBrQuWdwezUjf?usp=sharing)
 
 ## Abstract
 Real-noise denoising is a challenging task because the statistics of real-noise do not follow the normal distribution, and they are also spatially and temporally changing.
