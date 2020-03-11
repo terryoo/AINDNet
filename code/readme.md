@@ -11,7 +11,10 @@ The quantitative performance of uploaded model would be higher than reported per
 | SIDD Test | 38.95     | 39.01 |
 
 ### Test
-Ready for the input data.
+Ready for the input data and trained model.
+
+Please place the downloaded model in checkpoint folder.
+
 python test_images.py --ckpt [trained model] --input_dir [Noisy Image directory] --output_dir [save directory]  --gpu_id [GPU number]
 
 [Options]
