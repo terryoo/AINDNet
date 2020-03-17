@@ -64,7 +64,7 @@ Will be updated soon.
 ```
 
 ## Acknowledgement
-Our work and implementations is inspired by and based on
+Our work and implementations are inspired by and based on
 SPADE [[site](https://github.com/NVlabs/SPADE)].
 
 
